@@ -2,7 +2,7 @@
 
 **Demo**
 
-![Alt Text](https://github.com/Hiteshsaai/Sorting-Visualization-app/blob/master/sortingnew.gif)
+![Alt Text](https://github.com/Hiteshsaai/Sorting-Visualization/blob/master/sortingnew.gif)
 
 
 ## Available Scripts
