@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Sorting Visualization App using React
+
+**Demo**
+
+![Alt Text](https://github.com/Hiteshsaai/Sorting-Visualization-app/blob/master/sortingnew.gif)
+
 
 ## Available Scripts
 
