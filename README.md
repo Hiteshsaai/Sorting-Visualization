@@ -9,4 +9,4 @@
 
 # LICENSE 
 
-The projec is licensed under MIT 
+The projec is licensed under MIT [LICENSE](https://github.com/Hiteshsaai/Sorting-Visualization/blob/master/LICENSE.md)
