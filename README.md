@@ -1,5 +1,13 @@
 # Sorting Visualization App using React
 
+This app consist of visualization of the following sorting alogrithms,
+
+- Quick Sort
+- Merger Sort 
+- Selection Sort
+- Insertion Sort 
+- Bubble Sort
+
 ## Demo
 
 ![Alt Text](https://github.com/Hiteshsaai/Sorting-Visualization/blob/master/sortingnew.gif)
