@@ -1,5 +1,8 @@
 # Sorting Visualization App using React
 
+
+# Description 
+
 This app consist of visualization of the following sorting alogrithms,
 
 - Quick Sort
