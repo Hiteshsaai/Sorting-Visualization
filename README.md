@@ -1,9 +1,9 @@
-# Sorting Visualization App using React
+# Sorting Visualization Application
 
 
 # Description 
 
-This app consist of visualization of the following sorting alogrithms,
+This app was build using React Native, and this app consist of visualization of the following sorting alogrithms,
 
 - Quick Sort
 - Merger Sort 
